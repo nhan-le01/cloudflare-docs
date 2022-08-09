@@ -3,7 +3,7 @@ title: Overview
 pcx_content_type: overview
 weight: 1
 meta:
-  title: Cloudflare Logs
+  title: Cloudflare Logs test
 ---
 
 # Cloudflare Logs
